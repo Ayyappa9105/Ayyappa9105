@@ -32,4 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyappa9105&show_icons=true&locale=en&layout=compact" alt="ayyappa9105" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyappa9105&show_icons=true&locale=en" alt="ayyappa9105" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayyappa9105)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayyappa9105&hide_border=true" alt="GitHub Streak" /></a>
