@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyappa9105&show_icons=true&locale=en" alt="ayyappa9105" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyappa9105&" alt="ayyappa9105" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayyappa9105" alt="GitHub Streak" /></a>
